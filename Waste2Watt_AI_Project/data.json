@@ -1,0 +1,38 @@
+[
+  {
+    "id": "WB-1042",
+    "loc": "Central Market",
+    "fill": 92,
+    "material": "Mixed waste"
+  },
+  {
+    "id": "WB-0871",
+    "loc": "Riverside Park",
+    "fill": 78,
+    "material": "Organic"
+  },
+  {
+    "id": "WB-1120",
+    "loc": "Tech District",
+    "fill": 43,
+    "material": "Plastic"
+  },
+  {
+    "id": "WB-0644",
+    "loc": "North Avenue",
+    "fill": 26,
+    "material": "Paper"
+  },
+  {
+    "id": "WB-0912",
+    "loc": "Old Town Square",
+    "fill": 84,
+    "material": "Mixed waste"
+  },
+  {
+    "id": "WB-0763",
+    "loc": "Greenway Station",
+    "fill": 58,
+    "material": "Organic"
+  }
+]
